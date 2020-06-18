@@ -1,0 +1,10 @@
+com\infosys\project1\product\controller\ProductController.class
+com\infosys\project1\product\repository\ProductRepository.class
+com\infosys\project1\product\dto\ProductDTO.class
+com\infosys\project1\product\ProductApplication.class
+com\infosys\project1\product\validator\ProductValidator.class
+com\infosys\project1\product\entity\Product.class
+com\infosys\project1\product\entity\SubscribedProduct.class
+com\infosys\project1\product\service\ProductService.class
+com\infosys\project1\product\repository\SubscribedProductsRepository.class
+com\infosys\project1\product\dto\SubscribedProductDTO.class
